@@ -16,5 +16,8 @@
 <!-- Alignment options!!!!! -->
 <img align="left" width="300" height="300" src="https://miro.medium.com/max/1600/1*paN5hOlhUTKwyFYAkLdxRg.gif">
 
-
+[Link to the Blog Post]()
 ### **Summary**
+>The aim through this blog post is to talk about Perception systems. Perception in an autonomous driving system is integral for both Level 2 and Level 4 systems. The purpose of Perceptual Systems can range in anything from Driving Perception i.e, Object detection, driving scene, Trajectory Generation etc. Any system that improves the robustness of the overall perception of an autonomous vehicle , can be consituted as a perception system . We will also look into a paper called [Arguing Machines](https://arxiv.org/pdf/1710.04459.pdf) where a neural Network goes head to head with the Tesla Autopilot that predict system disengagements that require human supervision.
+
+<br>
